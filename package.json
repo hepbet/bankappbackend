@@ -7,6 +7,9 @@
     "test": "jest",
     "start": "node server.js"
   },
+  "engines": {
+  "node": ">=18.18.0 <19.0.0"
+  },
   "author": "betul erenel",
   "license": "MIT",
   "dependencies": {
